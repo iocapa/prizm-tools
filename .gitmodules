@@ -1,0 +1,3 @@
+[submodule "prizm-binutils-gdb"]
+	path = prizm-binutils-gdb
+	url = https://github.com/iocapa/prizm-binutils-gdb
