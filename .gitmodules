@@ -1,3 +1,9 @@
 [submodule "prizm-binutils-gdb"]
 	path = prizm-binutils-gdb
 	url = https://github.com/iocapa/prizm-binutils-gdb
+[submodule "prizm-gcc"]
+	path = prizm-gcc
+	url = git@github.com:iocapa/prizm-gcc.git
+[submodule "prizm-newlib"]
+	path = prizm-newlib
+	url = git@github.com:iocapa/prizm-newlib.git
